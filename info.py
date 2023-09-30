@@ -49,7 +49,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'True')), True)
-HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/c/1845700490/3")
+HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/How_To_Download_Fi/10")
 VERIFY2_URL = environ.get('VERIFY2_URL', "pdiskpro.in")
 VERIFY2_API = environ.get('VERIFY2_API', "dc85834609b61f3a9c37ec76c016abd530be83f7")
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'pdiskpro.in')
